@@ -34,11 +34,11 @@ font = pygame.font.SysFont(None, 50)
 score_font = pygame.font.SysFont(None, 35)
 
 # Sound effects (ensure these files exist in the same directory)
-BACKGROUND_MUSIC = 'Retro-game-arcade-short.mp3'
-FOOD_SOUND = 'food_sound.wav'
-BONUS_FOOD_SOUND = 'bonus_food_sound.wav'
-GAME_OVER_SOUND = 'game_over_sound.wav'
-POWER_UP_SOUND = 'power_up_sound.wav'
+BACKGROUND_MUSIC = 'assets/sfx/Retro-game-arcade-short.mp3'
+FOOD_SOUND = 'assets/sfx/food_sound.wav'
+BONUS_FOOD_SOUND = 'assets/sfx/bonus_food_sound.wav'
+GAME_OVER_SOUND = 'assets/sfx/game_over_sound.wav'
+POWER_UP_SOUND = 'assets/sfx/power_up_sound.wav'
 
 # Load sound effects
 try:
